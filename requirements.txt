@@ -1,0 +1,8 @@
+openai>=1.0.0
+pandas
+numpy
+langchain-core
+langchain-openai
+langgraph
+llama-index
+requests 
